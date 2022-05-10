@@ -17,5 +17,5 @@ const idoxss = require('idoxss')
 
 import idoxss from idoxss
 
-console.log(idoxss) => 0x-2a-2b-3c-6y-n7
+console.log(idoxss) => "0x-2a-2b-3c-6y-n7"
 ```
